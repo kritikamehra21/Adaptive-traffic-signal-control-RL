@@ -1,0 +1,2 @@
+# Adaptive-traffic-signal-control-RL
+A Machine Learning project using Reinforcement Learning to optimize adaptive traffic signal control, reducing congestion and improving urban traffic flow.
